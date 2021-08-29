@@ -1,0 +1,9 @@
+# Editors
+*.sw[a-z]
+*~
+*#
+*.code-workspace
+/.vscode
+
+# Node.js
+/node_modules

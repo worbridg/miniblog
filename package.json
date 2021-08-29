@@ -1,0 +1,15 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "the UI of mimiblog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "worbridg",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli": "^4.5.13",
+    "@vue/cli-service-global": "^4.5.13"
+  }
+}
